@@ -8,7 +8,97 @@ public_folder: /uploads
 collections:
   - name: "guides"
     label: "Guides"
-    folder: "docs"
+    folder: "docs/guides"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - label: "id"
+        name: "id"
+        widget: "string"
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Description"
+        name: "description"
+        widget: "string"
+        required: false
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+      - label: "sidebar_label"
+        name: "sidebar_label"
+        widget: "string"
+        required: false
+      - label: "slug"
+        name: "slug"
+        widget: "string"
+        required: false
+
+  - name: "Tutorials"
+    label: "Tutorials"
+    folder: "docs/Tutorials"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - label: "id"
+        name: "id"
+        widget: "string"
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Description"
+        name: "description"
+        widget: "string"
+        required: false
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+      - label: "sidebar_label"
+        name: "sidebar_label"
+        widget: "string"
+        required: false
+      - label: "slug"
+        name: "slug"
+        widget: "string"
+        required: false
+
+  - name: "Cheat Sheets"
+    label: "Cheat Sheets"
+    folder: "docs/Cheat Sheets"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - label: "id"
+        name: "id"
+        widget: "string"
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Description"
+        name: "description"
+        widget: "string"
+        required: false
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+      - label: "sidebar_label"
+        name: "sidebar_label"
+        widget: "string"
+        required: false
+      - label: "slug"
+        name: "slug"
+        widget: "string"
+        required: false
+
+  - name: "Help"
+    label: "Help"
+    folder: "docs/Help"
     create: true
     slug: "{{slug}}"
     extension: "md"

@@ -62,12 +62,12 @@ Choose the right **IP rating** for your installation:
 ## 🔌 5. PSU Form Factors
 
 Depending on where and how you'll install the PSU:
-
 | Type         | Features                          | Example Use        | Example product |
 |--------------|-----------------------------------|--------------------|-----------------|
-| Enclosed     | Ventilated metal case              | Cabinet installs   |<a href="https://vivalyte.com/product/vpsu-rsp-320-24/" target="_blank" rel="noopener noreferrer">VPSU-RSP-320-24</a>
-| Waterproof   | Fully sealed, resin-filled         | Outdoor signage    | <a href="https://vivalyte.com/product/vpsu-hlg-40h-24a/" target="_blank" rel="noopener noreferrer">VPSU-HLG-40H-24A</a>|
-| DIN Rail     | Mounts on standard DIN rails       | Electrical panels  |<a href="https://vivalyte.com/product/vpsu-ndr-480-2" target="_blank" rel="noopener noreferrer">VPSU-NDR-480-24</a>|
+| Enclosed     | Ventilated metal case             | Cabinet installs   | <a href="https://vivalyte.com/product/vpsu-rsp-320-24/" target="_blank" rel="noopener noreferrer">VPSU-RSP-320-24</a> |
+| Waterproof   | Fully sealed, resin-filled        | Outdoor signage    | <a href="https://vivalyte.com/product/vpsu-hlg-40h-24a/" target="_blank" rel="noopener noreferrer">VPSU-HLG-40H-24A</a> |
+| DIN Rail     | Mounts on standard DIN rails      | Electrical panels  | <a href="https://vivalyte.com/product/vpsu-ndr-480-2" target="_blank" rel="noopener noreferrer">VPSU-NDR-480-24</a> |
+
 
 ---
 
@@ -85,9 +85,11 @@ Depending on where and how you'll install the PSU:
 
 | Power | Voltage | PSU Model        | Environment |
 |-------|---------|------------------|-------------|
-| 100W  | 24V     | PS-100-24V       | Indoor      |
-| 150W  | 12V     | PS-150-12V       | Indoor      |
-| 120W  | 24V     | PS-120W-24-IP65  | Outdoor     |
+| 400W  | 5V     | VPSU-SuperSlim-400-5
+       | Indoor      |
+| 150W  | 24V     | VPSU-SuperSlim-150W-24       | Indoor      |
+| 100W  | 24V     | VPSU-SuperSlim-100W-24-IP67
+  | Outdoor     |
 
 ---
 

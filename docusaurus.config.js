@@ -22,7 +22,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ashleyvansteenacker', // Usually your GitHub org/user name.
+  organizationName: 'Vivalyte', // Usually your GitHub org/user name.
   projectName: 'docs.vivalyte.com', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -46,7 +46,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ashleyvansteenacker/docs.vivalyte.com/tree/main/',
+            'https://github.com/Vivalyte/docs.vivalyte.com/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -57,7 +57,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ashleyvansteenacker/docs.vivalyte.com/tree/main/',
+            'https://github.com/Vivalyte/docs.vivalyte.com/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',

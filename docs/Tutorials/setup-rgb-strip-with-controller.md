@@ -2,6 +2,7 @@
 id: setup-rgb-strip-with-controller
 title: Setup RGB Strip with Controller
 sidebar_label: RGB + Controller
+slug: /tutorials/setup-rgb-strip-with-controller
 ---
 
 # How to Set Up an RGB LED Strip with a Controller

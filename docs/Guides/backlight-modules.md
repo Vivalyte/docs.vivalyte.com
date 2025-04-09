@@ -3,6 +3,7 @@ id: backlight-modules
 title: Backlight Modules & Bars for Signage — Complete Guide
 sidebar_label: Backlight Modules & Bars
 description: Learn how to select, position, and power LED backlight modules and bars for signage and box lighting.
+slug: /guides/backlight-modules
 ---
 
 # Backlight Modules & Bars for Signage — Complete Guide

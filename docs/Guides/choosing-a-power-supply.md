@@ -3,6 +3,7 @@ id: choosing-a-power-supply
 title: How to Choose the Right Power Supply
 sidebar_label: Choosing a Power Supply
 description: Learn how to select the correct power supply for your LED lighting setup.
+slug: /guides/choosing-a-power-supply
 ---
 
 # How to Choose the Right Power Supply

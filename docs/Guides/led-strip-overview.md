@@ -3,6 +3,7 @@ id: led-strip-overview
 title: LED Strip Lighting — Types, Selection & Usage Guide
 sidebar_label: LED Strip Guide
 description: Understand the different types of LED strips, how to select the right one, and how to use them effectively.
+slug: /guides/led-strip-overview
 ---
 
 # LED Strip Lighting — Selection & Usage Guide

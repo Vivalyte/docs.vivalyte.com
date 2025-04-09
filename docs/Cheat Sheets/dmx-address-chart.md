@@ -2,6 +2,7 @@
 id: dmx-address-chart
 title: DMX Addressing Chart
 sidebar_label: DMX Addressing
+slug: /Cheat%20Sheets/dmx-address-chart
 ---
 
 # DMX Addressing Cheat Sheet

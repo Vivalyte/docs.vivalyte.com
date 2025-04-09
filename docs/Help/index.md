@@ -2,6 +2,7 @@
 id: index
 title: Help
 slug: /help
+hide_sidebar: true
 ---
 
 import DocCardList from '@theme/DocCardList';

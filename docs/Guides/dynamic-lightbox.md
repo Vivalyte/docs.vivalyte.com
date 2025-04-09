@@ -3,6 +3,7 @@ id: dynamic-lightbox
 title: Dynamic Lightbox — Animated Signage & Fabric Backlighting
 sidebar_label: Dynamic Lightbox
 description: Learn how to design and install dynamic lightboxes with pixel LEDs, DMX control, and animated backlight effects.
+slug: /guides/dynamic-lightbox
 ---
 
 # Dynamic Lightbox — Animated Signage & Fabric Backlighting

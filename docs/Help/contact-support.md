@@ -2,6 +2,7 @@
 id: contact-support
 title: Contact Support
 sidebar_label: Contact Us
+slug: /help/contact-support
 ---
 
 # Need Help? Contact the Vivalyte Team

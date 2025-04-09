@@ -2,6 +2,7 @@
 id: index
 title: Tutorials
 slug: /tutorials
+hide_sidebar: true
 ---
 
 import DocCardList from '@theme/DocCardList';

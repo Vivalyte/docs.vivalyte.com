@@ -2,6 +2,7 @@
 id: index
 title: Cheat Sheets
 slug: /Cheat Sheets
+hide_sidebar: true
 ---
 
 import DocCardList from '@theme/DocCardList';

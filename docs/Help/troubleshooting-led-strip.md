@@ -2,6 +2,7 @@
 id: troubleshooting-led-strip
 title: LED Strip Not Working? Start Here
 sidebar_label: LED Strip Issues
+slug: /help/troubleshooting-led-strip
 ---
 
 # LED Strip Not Working? Start Here

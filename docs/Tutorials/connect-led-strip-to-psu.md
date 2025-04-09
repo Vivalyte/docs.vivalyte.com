@@ -2,6 +2,7 @@
 id: connect-led-strip-to-psu
 title: Connect a LED Strip to a Power Supply
 sidebar_label: Connect LED Strip
+slug: /tutorials/connect-led-strip-to-psu
 ---
 
 # How to Connect a LED Strip to a Power Supply

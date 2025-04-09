@@ -24,14 +24,14 @@ function HomepageHeader() {
       Learn @ Vivalyte
     </Heading>
     <p className="hero__subtitle">
-      Explore Vivalyte’s guides, How To's, and so much more.
+      Explore Vivalyte’s guides, How To's and so much more.
     </p>
     <div className={styles.buttons}>
       <Link
         className="button button--secondary button--lg"
-        to="/docs/intro"
+        to="/docs/guides"
       >
-        Let's Explore
+        Let's go!
       </Link>
     </div>
   </div>
@@ -44,7 +44,7 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      description="Organize your documentation"
+      description="Learn @ Vivalyte"
     >
       <HomepageHeader />
       <main>

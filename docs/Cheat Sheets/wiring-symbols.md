@@ -2,6 +2,7 @@
 id: wiring-symbols
 title: Wiring Symbols Reference
 sidebar_label: Wiring Symbols
+slug: /Cheat%20Sheets/wiring-symbols
 ---
 
 # Wiring Symbols Cheat Sheet

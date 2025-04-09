@@ -3,6 +3,7 @@ id: sidelight-modules
 title: Sidelight Modules & Bars — Slim Signage Lighting Guide
 sidebar_label: Sidelight Modules & Bars
 description: Discover how to use edge-lit LED modules and bars for slim lightboxes, textile frames, and signage applications.
+slug: /guides/sidelight-modules
 ---
 
 # Sidelight Modules & Bars — Slim Signage Lighting Guide

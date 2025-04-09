@@ -3,6 +3,7 @@ id: neon-flex-overview
 title: Understanding Neon Flex & LED Flex Types
 sidebar_label: Neon Flex
 description: A complete guide to the types of Neon/LED flex, their bending directions, pros & cons, and best-fit applications.
+slug: /guides/neon-flex-overview
 ---
 
 # Neon Flex & LED Flex Guide

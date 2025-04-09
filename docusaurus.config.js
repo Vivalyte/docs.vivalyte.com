@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Vivalyte Docs',
   tagline: '',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -48,21 +48,6 @@ const config = {
           editUrl:
             'https://github.com/Vivalyte/docs.vivalyte.com/tree/main/',
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/Vivalyte/docs.vivalyte.com/tree/main/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -86,9 +71,8 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
+            label: 'Guides',
+          }
         ],
       },
       footer: {
@@ -111,8 +95,8 @@ const config = {
                 href: 'https://www.facebook.com/vivalyte',
               },
               {
-                label: 'LinkedIn',
-                href: 'https://www.linkedin.com/company/vivalyte/',
+                label: 'Products',
+                href: 'https://vivalyte.com/products',
               },
             ],
           },
@@ -120,13 +104,13 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'Website',
                 href: 'https://vivalyte.com',
               },
+              {
+                label: 'Products',
+                href: 'https://vivalyte.com',
+              }
             ],
           },
         ],

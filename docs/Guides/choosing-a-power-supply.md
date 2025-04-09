@@ -67,8 +67,7 @@ Depending on where and how you'll install the PSU:
 |--------------|-----------------------------------|--------------------|-----------------|
 | Enclosed     | Ventilated metal case              | Cabinet installs   |<a href="https://vivalyte.com/product/vpsu-rsp-320-24/" target="_blank" rel="noopener noreferrer">VPSU-RSP-320-24</a>
 | Waterproof   | Fully sealed, resin-filled         | Outdoor signage    | <a href="https://vivalyte.com/product/vpsu-hlg-40h-24a/" target="_blank" rel="noopener noreferrer">VPSU-HLG-40H-24A</a>|
-| DIN Rail     | Mounts on standard DIN rails       | Electrical panels  |<a href="https://vivalyte.com/product/vpsu-ndr-480-2" target="_blank" rel="noopener noreferrer">VPSU-NDR-480-24
-</a>|
+| DIN Rail     | Mounts on standard DIN rails       | Electrical panels  |<a href="https://vivalyte.com/product/vpsu-ndr-480-2" target="_blank" rel="noopener noreferrer">VPSU-NDR-480-24</a>|
 
 ---
 

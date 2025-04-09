@@ -1,50 +1,61 @@
 import clsx from 'clsx';
+import Link from "@docusaurus/Link";
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Guides',
+    icon: '📚',
+    link: '/docs/guides',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Need help choosing a product?
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Tutorials',
+    icon: '🎞️',
+    link: '/docs/tutorials',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Let's build something amazing.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Cheat Sheets',
+    icon: '📃',
+    link: '/docs/Cheat%20Sheets',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Need that one little pinout?
+      </>
+    ),
+  },
+  {
+    title: 'Help',
+    icon: '❔',
+    link: '/docs/help',
+    description: (
+      <>
+        Troubleshooting together.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({icon, title, description,link}) {
   return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
+    <div className={clsx('col col--3')}>
+      <Link to={link} className={styles.featureCard}>
+      <div className="text--center padding-horiz--md padding-vert--lg shadow--md rounded">
+        <div style={{ fontSize: '3rem', marginBottom: '1rem' }}>{icon}</div>
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
       </div>
+      </Link>
     </div>
   );
 }

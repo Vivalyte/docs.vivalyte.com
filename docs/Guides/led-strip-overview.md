@@ -179,7 +179,104 @@ Choosing the correct IP rating ensures durability and safety in your lighting ap
 | Color Options   | Single, CCT, RGB, RGBW         |
 
 ---
+## Vivalyte options
+ ### 🔹 KING Series
 
+- **Model(s):** VFN-H2835K-XXX-24  
+- **LEDs per meter:** 90 / 144 / 180  
+- **Power consumption:** 4.8 / 7.68 / 9.6 W/m  
+- **Brightness:** 1042–2044 lm/m  
+- **Voltage:** 24V DC  
+- **CRI Options:** >80 / >90  
+- **LED Chip Type:** 2835  
+- **PCB Width:** 10mm  
+- **Available IP Ratings:** IP22–IP68  
+
+> 🧠 **When to choose:** Ideal for general-purpose projects requiring medium brightness and budget flexibility.
+
+---
+
+### 🔹 THOR Series
+
+- **Model(s):** VFN-H2835T-XXX-24  
+- **LEDs per meter:** 64–432  
+- **Power consumption:** 7.68–38.88 W/m  
+- **Brightness:** 1128–6955 lm/m  
+- **Voltage:** 24V DC  
+- **CRI Options:** >90 / >95  
+- **LED Chip Type:** 2835  
+- **PCB Width:** 10–28mm  
+- **Available IP Ratings:** IP22–IP68  
+
+> 🧠 **When to choose:** Perfect for high-output needs such as architectural lighting or areas needing strong visual impact.
+
+---
+
+### 🔹 ODIN Series
+
+- **Model(s):** VFN-H2835O-XXX-24  
+- **LEDs per meter:** 80–288  
+- **Power consumption:** 14.4–43.2 W/m  
+- **Brightness:** 2304–6955 lm/m  
+- **Voltage:** 24V DC  
+- **CRI Options:** >90  
+- **LED Chip Type:** 2835  
+- **PCB Width:** 10–12mm  
+- **Available IP Ratings:** IP22–IP68  
+
+> 🧠 **When to choose:** Great for ultra-high brightness scenarios or where premium CRI and punch are required.
+
+---
+
+### 🔹 COB Series
+
+- **Model(s):** VFN-FC-XXX-24(HS)  
+- **LEDs per meter:** 320 / 480 / 576  
+- **Power consumption:** 6–12 W/m  
+- **Brightness:** 540–1020 lm/m  
+- **Voltage:** 24V DC  
+- **CRI Options:** >90  
+- **LED Chip Type:** COB  
+- **PCB Width:** 5–8mm  
+- **Available IP Ratings:** IP22–IP68  
+
+> 🧠 **When to choose:** Best for dot-free lines of light, close-to-surface applications, or seamless glow in diffused profiles.
+
+---
+
+### 🔹 LONG RUN Series
+
+- **Model(s):** VLWS-2835A-XXX-24  
+- **LEDs per meter:** 60 / 120  
+- **Power consumption:** 5.04 / 10.8 W/m  
+- **Brightness:** 431–862 lm/m  
+- **Voltage:** 24V DC  
+- **CRI Options:** >80 / >90 / >95  
+- **LED Chip Type:** 2835  
+- **PCB Width:** 10mm  
+- **Available IP Ratings:** IP22–IP68  
+
+> 🧠 **When to choose:** Optimized for long continuous runs with minimal voltage drop — signage or display applications.
+
+---
+
+### 🔹 2110 DENSE Series
+
+- **Model(s):** VFN-2110-XXX-24  
+- **LEDs per meter:** 266–700  
+- **Power consumption:** 13.68–24 W/m  
+- **Brightness:** 1258–2185 lm/m  
+- **Voltage:** 24V DC  
+- **CRI Options:** >90 / >95  
+- **LED Chip Type:** 2110  
+- **PCB Width:** 10mm  
+- **Available IP Ratings:** IP22–IP68  
+
+> 🧠 **When to choose:** Recommended when ultra-uniform lighting is needed — perfect for backlighting, profiles, or high-end finishes.
+
+
+
+---
 ## 🛠 Still Unsure?
 
 Send us your project specs — we’ll help you select the perfect strip.  
